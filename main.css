@@ -13,7 +13,8 @@ body {
     background-color: var(--slate-300);
 }
 
-h2 {
+h1 {
+    font-size: 1.5rem;
     color: var(--slate-900);
 }
 
