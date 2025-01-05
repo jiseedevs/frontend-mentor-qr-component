@@ -8,18 +8,17 @@
 body {
     margin: 0;
     padding: 0;
-    min-height: 100vh;
     font-family: "Outfit", serif;
     font-optical-sizing: auto;
     background-color: var(--slate-300);
 }
 
-h3 {
+h2 {
     color: var(--slate-900);
 }
 
 p {
-    font-size: 1rem;
+    font-size: 15px;
 }
 
 .outfit-400 {
@@ -46,6 +45,7 @@ p {
     padding: 1rem;
     text-align: center;
     background-color: white;
+    box-shadow: 2px 15px 20px 1px rgba(0, 0, 0, 0.08);
 }
 
 .container {
